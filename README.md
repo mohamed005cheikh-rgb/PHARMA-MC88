@@ -17,7 +17,7 @@ Vous parcourez le catalogue — médicaments, vitamines, soins — vous ajoutez 
 Que ce soit pour un besoin urgent ou un réapprovisionnement tranquille, tout est pensé pour que l'expérience reste simple, claire, et rapide — sur téléphone comme sur ordinateur.
 
 ---
-
+<!-- 
 ## 📸 Un aperçu
 
 <div align="center">
@@ -41,7 +41,7 @@ Que ce soit pour un besoin urgent ou un réapprovisionnement tranquille, tout es
 <div align="center">
   <img src="https://github.com/mohamed005cheikh-rgb/pharma-mc88/raw/main/images/Sr2.gif" alt="Valider la commande sur WhatsApp" width="100%" />
 </div>
-
+-->
 ---
 
 ## ✨ Ce que vous trouverez
